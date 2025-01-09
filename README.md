@@ -1,6 +1,6 @@
 # Monitor Web Apps 
 
-## >> Getting started
+## Getting started
 
 ![Lesson image](/grafana.png)
 
@@ -10,10 +10,10 @@ To get started with this project, run
 git clone https://github.com/Vishakha-Sawra/Grafana-Prometheus-Dashboard
 ```
 
-## >> Checkout the Video: 
+## Checkout the Video: 
 
 [Monitor Web Apps YouTube Video](https://www.youtube.com/watch?v=y6bfr72Nntw&t=28s)
 
-## >> Follow the documentation:
+## Follow the documentation:
 
 https://fewv.dev/lessons/grafna-prometheus-dashboard/
