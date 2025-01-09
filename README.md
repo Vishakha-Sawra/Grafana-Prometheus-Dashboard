@@ -1,4 +1,4 @@
-# Monitor Web Apps 
+# Monitor Web Apps Using Grafana and Prometheus
 
 ## Getting started
 
